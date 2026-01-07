@@ -50,8 +50,8 @@ Certified as an **AWS Cloud Practitioner** (expires September 2024)
 - [**Repo Name**](https://github.com/jle122/repo-name)  
   - Description: A fantastic project you’re proud of.
 
-- [**Another Repo**](https://github.com/jle122/another-repo)  
-  - Description: A brief explanation of its purpose.
+- [**Query Showcase**](https://github.com/jle122/query-showcase)  
+  - Description: A collection of SQL and MongoDB queries demonstrating database skills, including data retrieval, joins, aggregations, and CRUD operations.
 
 ---
 
