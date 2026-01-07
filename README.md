@@ -52,21 +52,8 @@ Certified as an **AWS Cloud Practitioner** (expires September 2024)
 
 - [**Query Showcase**](https://github.com/jle122/query-showcase)  
   - Description: A collection of SQL and MongoDB queries demonstrating database skills, including data retrieval, joins, aggregations, and CRUD operations.
-
----
-
-## 📊 GitHub Stats
-![jle122's GitHub stats](https://github-readme-stats.vercel.app/api?username=jle122&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jle122&layout=compact&theme=radical)
-
----
-
-## 🤝 Let's Connect!
-- 💻 [Portfolio Website](https://yourwebsite.com)
-- 📫 **Email**: your.email@example.com
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-
----
+  
+- [**Simple Dog Website**](https://github.com/jle122/mp-4)  
+  - A Next.js application built with TypeScript, showcasing modern web development practices and secure API key encryption. [Live Demo](https://mp-4-eight.vercel.app)
 
 "*Your motivational quote here!*"
