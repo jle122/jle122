@@ -47,13 +47,11 @@ Certified as an **AWS Cloud Practitioner** (expires September 2024)
 ---
 
 ## 🚀 Featured Repositories
-- [**Repo Name**](https://github.com/jle122/repo-name)  
-  - Description: A fantastic project you’re proud of.
 
 - [**Query Showcase**](https://github.com/jle122/query-showcase)  
   - Description: A collection of SQL and MongoDB queries demonstrating database skills, including data retrieval, joins, aggregations, and CRUD operations.
   
-- [**Simple Dog Website**](https://github.com/jle122/mp-4)  
-  - A Next.js application built with TypeScript, showcasing modern web development practices and secure API key encryption. [Live Demo](https://mp-4-eight.vercel.app)
+- [**Dog Website**](https://github.com/jle122/mp-4)  
+  - A Next.js application built with TypeScript, showcasing modern web development practices and secure API key encryption. This website visualizes different dog breeds and information from the API. [Live Demo](https://mp-4-eight.vercel.app)
 
 "*Your motivational quote here!*"
