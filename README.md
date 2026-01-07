@@ -54,4 +54,4 @@ Certified as an **AWS Cloud Practitioner** (expires September 2024)
 - [**Dog Website**](https://github.com/jle122/mp-4)  
   - A Next.js application built with TypeScript, showcasing modern web development practices and secure API key encryption. This website visualizes different dog breeds and information from the API. [Live Demo](https://mp-4-eight.vercel.app)
 
-"*Your motivational quote here!*"
+"*Whatever you do, always give 100% - unless you're donating blood*" - Bill Murray
