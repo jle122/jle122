@@ -6,7 +6,7 @@ Welcome to my GitHub profile repository! Here's a little about me:
 - 🔭 Currently working on a research project testing the effectiveness of the Multiplicative Weight Update Algorithm as an ensemble learner for credit card fraud detection in collaboration with my professor.
 - 🌱 Learning Docker and the workings of ETL pipelines.
 - 🎯 My goal: Becoming an expert in data-centric operations and data modeling.
-- ⚡ Fun fact: I can listen to a song and figure it out on the piano within about 10 minutes.
+  
 
 ---
 
