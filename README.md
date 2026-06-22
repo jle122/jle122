@@ -42,6 +42,6 @@ Certified as an **AWS Cloud Practitioner** (expires September 2024)
 - [**DGI-Warehouse-Tools**](https://github.com/jle122/DGI-WarehouseTools)
   - A write-up of some of the software I implemented during my time at David Gooding Inc.
 - [**MBTA Estimation Web App**](https://github.com/0GhOsTO/MBTAEstimation)
-  - Description: A full-stack web application (Go backend, React frontend) that provides a trustworthiness score to MBTA green line train arrival predictions.
+  - A full-stack web application (Go backend, React frontend) that provides a trustworthiness score to MBTA green line train arrival predictions.
 - [**MyHouse-Overview**](https://github.com/jle122/MyHouse-Overview)  
-  - Description: A Django-based web application for warehouse management, including user authentication, item query, and shipment tracking.
+  - A Django-based web application for warehouse management, including user authentication, item query, and shipment tracking.
