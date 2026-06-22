@@ -2,14 +2,6 @@
 
 Welcome to my GitHub profile repository! Here's a little about me:
 
-## 👩‍💻 About Me
-- 🔭 Currently working on a research project testing the effectiveness of the Multiplicative Weight Update Algorithm as an ensemble learner for credit card fraud detection in collaboration with my professor.
-- 🌱 Learning Docker and the workings of ETL pipelines.
-- 🎯 My goal: Becoming an expert in data-centric operations and data modeling.
-  
-
----
-
 ## 🛠 Tech Skills
 
 ### Frameworks & Libraries
@@ -47,13 +39,10 @@ Certified as an **AWS Cloud Practitioner** (expires September 2024)
 ---
 
 ## 🚀 Featured Repositories
+-[**DGI-Warehouse-Tools**](https://github.com/jle122/DGI-WarehouseTools)
+  - A write-up of some of the software I implemented during my time at David Gooding Inc.
 - [**MyHouse-Overview**](https://github.com/jle122/MyHouse-Overview)  
   - Description: A Django-based web application for warehouse management, including user authentication, item query, and shipment tracking.
   
-- [**Query Showcase**](https://github.com/jle122/query-showcase)  
-  - Description: A collection of SQL and MongoDB queries demonstrating database skills, including data retrieval, joins, aggregations, and CRUD operations.
-  
 - [**MBTA Estimation Web App**](https://github.com/0GhOsTO/MBTAEstimation)
   - Description: A full-stack web application (Go backend, React frontend) that provides a trustworthiness score to MBTA green line train arrival predictions.
-
-"*Whatever you do, always give 100% - unless you're donating blood*" - Bill Murray
