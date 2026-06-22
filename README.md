@@ -39,7 +39,7 @@ Certified as an **AWS Cloud Practitioner** (expires September 2024)
 ---
 
 ## 🚀 Featured Repositories
--[**DGI-Warehouse-Tools**](https://github.com/jle122/DGI-WarehouseTools)
+- [**DGI-Warehouse-Tools**](https://github.com/jle122/DGI-WarehouseTools)
   - A write-up of some of the software I implemented during my time at David Gooding Inc.
 - [**MyHouse-Overview**](https://github.com/jle122/MyHouse-Overview)  
   - Description: A Django-based web application for warehouse management, including user authentication, item query, and shipment tracking.
