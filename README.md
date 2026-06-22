@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile repository! Here's a little about me:
+Welcome to my GitHub profile repository!
 
 ## 🛠 Tech Skills
 
